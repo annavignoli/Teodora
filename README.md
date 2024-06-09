@@ -11,7 +11,7 @@ Teodora is a rule-based chatbot with the purpose of helping tourists discover Ra
 </body>
 </html>
 
-The rule dictionary was developed from an interview with more than 100 people in order to collect many possible questions that a tourist might ask with as many conversational nuances as possible. 
+The chatbot rules were developed from an interview with more than 100 people in order to collect many possible questions that a tourist might ask with as many conversational nuances as possible. 
 The software has a graphical user interface to make the user experience as natural and user-friendly as possible. Chats between Teodora and users are also saved locally so that conversations can be reviewed and information is not lost. 
 
 ### How to install and run Teodora on Windows
